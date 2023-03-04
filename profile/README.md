@@ -10,7 +10,3 @@ There are totally three main repos in this organization:
 3. [WearableSensor_Macos](https://github.com/UOL-Y2P-WearableSensor/WearableSensor_Macos): a repo for socket server development.
 
 The references are all in the https://wearablesensor.blogspot.com/2023/02/week-5-summary-for-whole-project.html. 
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BtlxjvaMq8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
